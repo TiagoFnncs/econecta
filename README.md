@@ -36,14 +36,14 @@
 - **HTML, JavaScript e CSS**: Código compactado em um único arquivo devido ao tempo curto de desenvolvimento.
 
 ## Roadmap Futuro
-- **Progressive Web App (PWA)**:  
-  - Funcionalidade mesmo sem conexão à internet.  
-  - Instalável diretamente pelo navegador.  
-  - Acessibilidade e sustentabilidade aprimoradas.
 - **Mobilização Social**: Envolver ainda mais as comunidades.
 - **Adaptação Climática**: Expandir ferramentas para mitigar impactos do clima.
 - **Gestão Sustentável**: Ampliação de funcionalidades.
 - **Preservação da Biodiversidade**: Novas estratégias e monitoramentos.
+- **Progressive Web App (PWA)**:  
+  - Funcionalidade mesmo sem conexão à internet.  
+  - Instalável diretamente pelo navegador.  
+  - Acessibilidade e sustentabilidade aprimoradas.
 
 ## Como Construímos
 Desenvolvido com **tecnologias web modernas** para garantir a agilidade e eficiência no tempo curto disponível. Utilizamos a abordagem **PWA** para oferecer:
