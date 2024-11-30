@@ -6,7 +6,7 @@
 
 ### 1. Monitoramento Ambiental
 - **Monitoramento de Qualidade da Água**: Análise constante para garantir segurança.
-  - Implementado com a API externa [Mapa da Água](https://mapadaagua.reporterbrasil.org.br/) devido ao tempo curto de desenvolvimento.
+  - Implementado externamente [Mapa da Água](https://mapadaagua.reporterbrasil.org.br/) devido ao tempo curto de desenvolvimento.
 - **Identificação de Riscos de Contaminação**: Prevenção proativa contra poluição.
 - **Monitoramento da Poluição Sonora**: Avaliação de ruídos urbanos.
 
